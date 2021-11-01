@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <Tickets>
+    <Ticket>
+	<CapeTown>1050</CapeTown>
+      	<Johannesburg>880</Johannesburg>
+      	<Durban>520</Durban>
+	<Bloemfontein>960</Bloemfontein>
+      	<Kimberley>620</Kimberley>
+    </Ticket>
+  </Tickets>
