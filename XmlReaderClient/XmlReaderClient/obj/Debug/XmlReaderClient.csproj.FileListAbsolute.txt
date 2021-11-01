@@ -1,0 +1,20 @@
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.exe.config
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.exe
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.pdb
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReader.dll
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReader.pdb
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csproj.CopyComplete
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.exe
+C:\Users\Chris\source\repos\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.pdb
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.exe.config
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.exe
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReaderClient.pdb
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReader.dll
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\bin\Debug\XmlReader.pdb
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.csproj.CopyComplete
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.exe
+C:\Users\USER\source\repos\CS Advanced\Lecturer Assessment\DotNetRemoting\XmlReaderClient\XmlReaderClient\obj\Debug\XmlReaderClient.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlReader", "XmlReader\XmlReader.csproj", "{8CC195DA-FDC9-4F66-8AF3-76D062D0BBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC195DA-FDC9-4F66-8AF3-76D062D0BBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC195DA-FDC9-4F66-8AF3-76D062D0BBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC195DA-FDC9-4F66-8AF3-76D062D0BBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC195DA-FDC9-4F66-8AF3-76D062D0BBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA9D08C-BB9F-413E-8898-CD1E112F6381}
+	EndGlobalSection
+EndGlobal
